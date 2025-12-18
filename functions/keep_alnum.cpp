@@ -1,4 +1,5 @@
-// g++ -O3 keep_alnum.cpp && ./a.out "gdrgdrgdrgd5%#$%#^#$^#$"
+hacker 
+12+22a.ctime//// g++ -O3 keep_alnum.cpp && ./a.out "gdrgdrgdrgd5%#$%#^#$^#$"
 // g++ -O3 keep_alnum.cpp && ./a.out FILE test.txt
 
 #include <ctime>
